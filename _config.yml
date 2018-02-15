@@ -28,31 +28,6 @@ app:
 marketing_header: AgilePoker - Agile Software Estimation for iOS # Optional
 marketing_desc: AgilePoker is a small application that is of use to people who work in an Agile software development environment such as Scrum or Extreme Programming (XP), using story point estimation.
 
-To use simply tap the desired card to show it, and tap again to return to the deck.
-
-Planning Poker® is an interesting and fun way of estimating tasks and gets everybody involved in the process. It also speeds the estimating process up considerably.
-
-How does it work?
-
-Planning Poker® is based on a list of features for a piece of software to be delivered, and a deck of cards.
-
-The deck contains the following cards: 0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100, ? and a coffee break card.
-
-An overview of the task (user story) to be estimated is given.
-
-Each individual selects a card representing their estimate.
-
-Everyone simultaneously turns their cards over.
-
-Any great variance in the estimation is discussed.
-
-The estimation process is repeated until a consensus is reached.
-
-PLANNING POKER® is a reg. trademark of Mountain Goat Software, LLC
-Number Sequence © 2005-2010 Mountain Goat Software, LLC
-
-Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
-
 #
 # Social Links
 #
